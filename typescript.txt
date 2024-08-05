@@ -1,0 +1,4 @@
+1.typescript is super set of javascript,
+2.6ts do static checking
+3.Ts is development tool.
+4.Project still gonna wrong in js.
